@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Shubham6393/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0486-predict-the-winner](https://github.com/Shubham6393/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubham6393/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Shubham6393/LEETCODE/tree/master/1260-shift-2d-grid) |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shubham6393/LEETCODE/tree/master/0486-predict-the-winner) |
+## Binary Search
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Shubham6393/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
