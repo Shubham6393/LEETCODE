@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubham6393/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Shubham6393/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubham6393/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/Shubham6393/LEETCODE/tree/master/1563-stone-game-v) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shubham6393/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shubham6393/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shubham6393/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Shubham6393/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubham6393/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/Shubham6393/LEETCODE/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Shubham6393/LEETCODE/tree/master/1563-stone-game-v) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubham6393/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shubham6393/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shubham6393/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shubham6393/LEETCODE/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/Shubham6393/LEETCODE/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Shubham6393/LEETCODE/tree/master/1563-stone-game-v) |
 ## Recursion
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shubham6393/LEETCODE/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/Shubham6393/LEETCODE/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Shubham6393/LEETCODE/tree/master/1563-stone-game-v) |
 ## Binary Search
 |  |
 | ------- |
