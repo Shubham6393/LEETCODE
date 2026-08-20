@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubham6393/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/Shubham6393/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Shubham6393/LEETCODE/tree/master/1563-stone-game-v) |
+| [1922-count-good-numbers](https://github.com/Shubham6393/LEETCODE/tree/master/1922-count-good-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubham6393/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shubham6393/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shubham6393/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Shubham6393/LEETCODE/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/Shubham6393/LEETCODE/tree/master/0486-predict-the-winner) |
+| [1922-count-good-numbers](https://github.com/Shubham6393/LEETCODE/tree/master/1922-count-good-numbers) |
 ## Game Theory
 |  |
 | ------- |
