@@ -20,7 +20,7 @@ public:
             x = 1/x;
             N = -N;
         }
-        return solve(x,n);
+        return solve(x,N);
         
     }
 };
