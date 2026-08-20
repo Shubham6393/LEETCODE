@@ -14,9 +14,10 @@ public:
         return x * half * half;
     }
     double myPow(double x, int n) {
-        long long N = n;
+        // int overflow se bachne ke liye long long use kiye 
+        long long N = n;  
         // handle negative case 
-        if(n<0){
+        if(N<0){
             x = 1/x;
             N = -N;
         }
