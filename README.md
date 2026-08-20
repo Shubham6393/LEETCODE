@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Shubham6393/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shubham6393/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubham6393/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham6393/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
