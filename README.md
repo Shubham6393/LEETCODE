@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Shubham6393/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/Shubham6393/LEETCODE/tree/master/0022-generate-parentheses) |
+| [1927-sum-game](https://github.com/Shubham6393/LEETCODE/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shubham6393/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubham6393/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham6393/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Shubham6393/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Shubham6393/LEETCODE/tree/master/1563-stone-game-v) |
 | [1922-count-good-numbers](https://github.com/Shubham6393/LEETCODE/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/Shubham6393/LEETCODE/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubham6393/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shubham6393/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shubham6393/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Shubham6393/LEETCODE/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Shubham6393/LEETCODE/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubham6393/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham6393/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Shubham6393/LEETCODE/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/Shubham6393/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Shubham6393/LEETCODE/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Shubham6393/LEETCODE/tree/master/1927-sum-game) |
 ## Binary Search
 |  |
 | ------- |
