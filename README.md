@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Shubham6393/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubham6393/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/Shubham6393/LEETCODE/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Shubham6393/LEETCODE/tree/master/1872-stone-game-viii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shubham6393/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shubham6393/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shubham6393/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubham6393/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/Shubham6393/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Shubham6393/LEETCODE/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Shubham6393/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1922-count-good-numbers](https://github.com/Shubham6393/LEETCODE/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/Shubham6393/LEETCODE/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubham6393/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Shubham6393/LEETCODE/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/Shubham6393/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Shubham6393/LEETCODE/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Shubham6393/LEETCODE/tree/master/1872-stone-game-viii) |
 ## Recursion
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Shubham6393/LEETCODE/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/Shubham6393/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Shubham6393/LEETCODE/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Shubham6393/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Shubham6393/LEETCODE/tree/master/1927-sum-game) |
 ## Binary Search
 |  |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Shubham6393/LEETCODE/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Shubham6393/LEETCODE/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
@@ -203,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Shubham6393/LEETCODE/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Shubham6393/LEETCODE/tree/master/1872-stone-game-viii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -228,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shubham6393/LEETCODE/tree/master/0022-generate-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Shubham6393/LEETCODE/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
