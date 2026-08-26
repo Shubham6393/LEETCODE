@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Shubham6393/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/Shubham6393/LEETCODE/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shubham6393/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/Shubham6393/LEETCODE/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shubham6393/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shubham6393/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shubham6393/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Shubham6393/LEETCODE/tree/master/0090-subsets-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Shubham6393/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shubham6393/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shubham6393/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shubham6393/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Shubham6393/LEETCODE/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/Shubham6393/LEETCODE/tree/master/0090-subsets-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
