@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Shubham6393/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/Shubham6393/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Shubham6393/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [1927-sum-game](https://github.com/Shubham6393/LEETCODE/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shubham6393/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shubham6393/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shubham6393/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Shubham6393/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/Shubham6393/LEETCODE/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/Shubham6393/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Shubham6393/LEETCODE/tree/master/1563-stone-game-v) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shubham6393/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Shubham6393/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Shubham6393/LEETCODE/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Shubham6393/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Shubham6393/LEETCODE/tree/master/0216-combination-sum-iii) |
 ## Bracket Sequences
 |  |
