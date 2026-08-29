@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Shubham6393/LEETCODE/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Shubham6393/LEETCODE/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Shubham6393/LEETCODE/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Shubham6393/LEETCODE/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shubham6393/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shubham6393/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Shubham6393/LEETCODE/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Shubham6393/LEETCODE/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Shubham6393/LEETCODE/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Shubham6393/LEETCODE/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Shubham6393/LEETCODE/tree/master/0131-palindrome-partitioning) |
@@ -260,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shubham6393/LEETCODE/tree/master/0079-word-search) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Shubham6393/LEETCODE/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
