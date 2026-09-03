@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Shubham6393/LEETCODE/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shubham6393/LEETCODE/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Shubham6393/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Shubham6393/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Shubham6393/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubham6393/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shubham6393/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Shubham6393/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Shubham6393/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Shubham6393/LEETCODE/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/Shubham6393/LEETCODE/tree/master/0486-predict-the-winner) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shubham6393/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Shubham6393/LEETCODE/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Shubham6393/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Brute-Force Search
