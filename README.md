@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Shubham6393/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Shubham6393/LEETCODE/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/Shubham6393/LEETCODE/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Shubham6393/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Shubham6393/LEETCODE/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Shubham6393/LEETCODE/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shubham6393/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Shubham6393/LEETCODE/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Shubham6393/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Shubham6393/LEETCODE/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/Shubham6393/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shubham6393/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shubham6393/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Shubham6393/LEETCODE/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Shubham6393/LEETCODE/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Shubham6393/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Shubham6393/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Shubham6393/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Shubham6393/LEETCODE/tree/master/0139-word-break) |
