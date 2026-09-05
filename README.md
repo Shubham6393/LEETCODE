@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shubham6393/LEETCODE/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Shubham6393/LEETCODE/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Shubham6393/LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Shubham6393/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Shubham6393/LEETCODE/tree/master/0486-predict-the-winner) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Shubham6393/LEETCODE/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shubham6393/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shubham6393/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shubham6393/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Shubham6393/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shubham6393/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Shubham6393/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Shubham6393/LEETCODE/tree/master/0139-word-break) |
