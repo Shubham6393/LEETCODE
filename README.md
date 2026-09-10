@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shubham6393/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shubham6393/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shubham6393/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shubham6393/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shubham6393/LEETCODE/tree/master/0079-word-search) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shubham6393/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Algorithm X
 |  |
 | ------- |
