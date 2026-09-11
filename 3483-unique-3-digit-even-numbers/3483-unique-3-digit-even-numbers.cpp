@@ -1,41 +1,33 @@
 class Solution {
 public:
-    void solve(vector<int>& digits, int num, int count,
-        set<int>& st, vector<int>& dp){
-            if(count == 3){
-                if(num % 2 == 0){
-                    st.insert(num);
-                }
-                return;
-            }
-
-            for(int i = 0; i<digits.size(); i++){
-                if(dp[i]){
-                    continue;
-                }
-
-                if(count == 0 && digits[i] == 0){
-                    continue;
-                }
-
-                dp[i] = 1;
-
-                solve(digits,num*10+digits[i],count+1,st,dp);
-
-                dp[i] = 0;
-            }
+    void solve(int &cnt, int pos, vector<int>& freq) {
+        if(pos == 3) {
+            cnt++;
+            return;
         }
-               
+        for(int i = 0; i <= 9; i++) {
+            if(freq[i] == 0) {
+                continue;
+            }
+            if(pos == 0 && i == 0) {
+                continue;
+            }
+            if(pos == 2 && (i % 2 != 0)) {
+                continue;
+            }
+            freq[i]--;
+            solve(cnt, pos + 1, freq);
+            freq[i]++;
+        }
+    }
+
     int totalNumbers(vector<int>& digits) {
-        set<int> st;
-
-        vector<int> dp(digits.size(), 0);
-
-        solve(digits, 0, 0, st, dp);
-
-        return st.size();
-        
-        
-        
+        vector<int> freq(10, 0);
+        for(int i = 0; i < digits.size(); i++) {
+            freq[digits[i]]++;
+        }
+        int cnt = 0;
+        solve(cnt, 0, freq);
+        return cnt;
     }
 };
